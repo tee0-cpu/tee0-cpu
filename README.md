@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanchai saelee
 =======================================================================================================================================
 
-Web DeV
--------
+computer engineering
+--------------------
 
 Student from Rangsit university 2024
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [teekub011@gmail.com](mailto:teekub011@gmail.com)
 * 🧠  I'm learning ai and coding
-* 🤝  I'm open to collaborating on google
+* 🤝  I'm open to collaborating on Rangsit university
 * ⚡  factory manager
 
 <a href="https://www.github.com/potardas20503" target="_blank" rel="noreferrer"><img
